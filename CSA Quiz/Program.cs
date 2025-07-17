@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-
-namespace CSA_Quiz
+﻿namespace CSA_Quiz
 {
     class Question
     {
