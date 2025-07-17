@@ -63,6 +63,8 @@ Running the Published App
 Place your vragen.txt file in the same published folder if it isn’t included (it must be included)
 Double-click SN-Quiz-Console.exe to start the quiz!
 
+For questions with multiple answers, enter the letters in chronological order without spaces.
+
 📝 Example Question File Format
 Question: What is the primary purpose of the HR Service Portal?
 A. Allow employees to submit tickets
